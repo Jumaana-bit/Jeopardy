@@ -39,3 +39,9 @@ The Jeopardy Game is a text-based version of the classic quiz show, allowing pla
 2. Answers must start with "what is" or "who is" to be considered valid.
 3. Each question can only be answered once.
 4. Scores are updated based on correct answers.
+
+## Demo
+![image](https://github.com/user-attachments/assets/0409febb-b4a3-4d7d-9ba9-ac2b4813e649)
+![image](https://github.com/user-attachments/assets/62417e0a-8ad0-4c0e-bff2-8a0b5de61fc5)
+
+
